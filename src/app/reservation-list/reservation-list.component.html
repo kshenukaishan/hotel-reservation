@@ -6,6 +6,7 @@
     {{ reservation.guestEmail }} Room number :
     {{ reservation.roomNumber }} Check in : {{ reservation.checkInDate }} Check
     out : {{ reservation.checkOutDate }}
+    <button (click)="deleteReservation(reservation.id)">Delete</button>
   </li>
 </ul>
 
