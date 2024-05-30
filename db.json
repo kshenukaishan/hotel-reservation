@@ -1,1 +1,12 @@
-{}
+{
+  "reservations": [
+    {
+      "id": "123456",
+      "guestName": "ishan",
+      "guestEmail": "ishan@gmail.com",
+      "roomNumber": 5,
+      "checkInDate": "2023-11-15",
+      "checkOutDate": "2023-11-20"
+    }
+  ]
+}
